@@ -103,3 +103,8 @@
       margin: auto;
     }
   }
+  
+  .nox{
+    animation: fadeIn 3s 4s;
+    animation-fill-mode: backwards;
+  }

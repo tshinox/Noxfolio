@@ -27,7 +27,7 @@ const Sidebar = () => {
         to="/"
         onClick={() => setShowNav(false)}>
         <img src={Logo} alt="Logo" className='w-100 p-0 m-0'/>
-        <label className='h5 text-warning w-100'><em>TSHINOX</em></label>
+        <label className='text-warning w-100'><em>TSHINOX</em></label>
       </Link>
       <nav className={showNav ? 'mobile-show' : ''}>
         <NavLink 
