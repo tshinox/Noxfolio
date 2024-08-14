@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Noxfolio/static/css/main.afcff23b.css",
-    "main.js": "/Noxfolio/static/js/main.c32aa133.js",
+    "main.js": "/Noxfolio/static/js/main.995bbb0d.js",
     "static/js/787.c87c566a.chunk.js": "/Noxfolio/static/js/787.c87c566a.chunk.js",
     "static/media/MukhodeTshinoxCV.pdf": "/Noxfolio/static/media/MukhodeTshinoxCV.140b20e48ffc2408e7d2.pdf",
     "static/media/Tshinox1.jpg": "/Noxfolio/static/media/Tshinox1.7cba494ac9b813528fd9.jpg",
@@ -13,11 +13,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Noxfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Noxfolio/index.html",
     "main.afcff23b.css.map": "/Noxfolio/static/css/main.afcff23b.css.map",
-    "main.c32aa133.js.map": "/Noxfolio/static/js/main.c32aa133.js.map",
+    "main.995bbb0d.js.map": "/Noxfolio/static/js/main.995bbb0d.js.map",
     "787.c87c566a.chunk.js.map": "/Noxfolio/static/js/787.c87c566a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afcff23b.css",
-    "static/js/main.c32aa133.js"
+    "static/js/main.995bbb0d.js"
   ]
 }
