@@ -103,8 +103,8 @@ const Portfolio = () => {
                                 <Accordion.Header>Clientele Experience</Accordion.Header>
                                 <Accordion.Body className="h5">
                                 At clientele, which is where I am currently working at the moment, I got to further expand my knowledge base and learned 
-                                how to develop RESTful APIs and Back-end development using .NET, and I had to quickly learn how to use DevOps and blazor.
-                                All of that was good for me and I also got a chance to learn about application security and monitoring, so it added to my 
+                                how to develop RESTful APIs and Back-end development using .NET, and I had a chance to further enhance my knowledge on
+                                DevOps and blazor. All of that was good for me and I also got a chance to learn about application security and monitoring, so it added to my 
                                 knowledge base that I already which is helping me grow as a developer. 
                                 </Accordion.Body>
                             </Accordion.Item>
